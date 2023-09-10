@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Muhammad Waseem"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D. student at University of Virginia (UVA)"
+  location         : "Charlottesville, VA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=KZctKDAAAAAJ&hl=en"
+  email            : "kqr5pu@virginia.edu"
+  researchgate     : "https://www.researchgate.net/profile/Muhammad-Waseem-44"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "mwaseem321"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "linkedin.com/in/mwaseem057"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-7609-3739"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Muhamma69715844"
   vine             :
   weibo            :
   xing             :
