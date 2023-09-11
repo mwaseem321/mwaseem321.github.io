@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification :
+google_site_verification : "files/google1d7744f224381263.html"
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Muhammad Waseem"
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   bio              : "Ph.D. student at University of Virginia (UVA)"
   location         : "Charlottesville, VA"
   employer         :
