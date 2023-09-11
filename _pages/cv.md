@@ -11,21 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Industrial Engineering, University of Engineering and Technology Peshawar, 2017
+* M.S. in Industrial Engineering (Manufacturing Systems Engineering), University of Engineering and Technology Peshawar, 2019
+* Ph.D in Mechanical and Aerospace Engineering, University of Virginia (Present)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2022 - Present: Research Assistant
+  * University of Virginia
+  * Duties included: Teaching Assistant
+  * Supervisor: Professor Qing (Cindy) Chang
+
+* Mar 2019 - Dec 2021: Manufacturing Lab Instructor
+  * University of Engineering and Technology Peshawar
+  * Duties included: Teaching and Demonstrating Manufacturing lab experiments
+
+* Sep 2018 - Mar 2019: Mechanics Lab Instructor
+  * College of Aeronautical Engineering (NUST)
+  * Duties included: Teaching and Demonstrating Mechanics lab experiments
+
+* Sep 2017 - Aug 2018: Shift Engineer
+  * DYNEA Pakistan Petrochemicals
+  * Duties included: Supervision and control of Molding compound powder manufacturing plant
   
 Skills
 ======
