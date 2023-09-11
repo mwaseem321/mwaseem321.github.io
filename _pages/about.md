@@ -15,7 +15,7 @@ Hello! I am Muhammad Waseem, a Ph.D. Student in the [Department of Mechanical an
 # Research interests:
 My current research interests include *Production Systems Modelling*, *Deep Reinforcement Learning*, *Engineering Optimization*, and *Scheduling control*.
 
-I am currently exploring a DRL based approaches to efficiently control the complex scheduling of mobile robots in a stochastic Multiproduct Flexible Manufacturing System. 
+I am currently exploring DRL based approaches to efficiently control the complex scheduling of mobile robots in a stochastic Multiproduct Flexible Manufacturing System. 
 
 ----
 
@@ -28,18 +28,18 @@ I am currently exploring a DRL based approaches to efficiently control the compl
 ---
 
 # Publications:
-1. [*"Multi-response optimization of tensile creep behavior of PLA 3D printed parts using categorical response surface methodology"*](/files/pyfet_sp23.pdf): <u>Muhammad Waseem</u>, Bashir Salah, Tufail Habib, Waqas Saleem, Muhammad Abas, Razaullah Khan, and Usman Ghani, *In Polymers MDPI*
+1. [*"Adaptive Mobile Robot Scheduling in Multiproduct Flexible Manufacturing Systems Using Reinforcement Learning"*](/files/ASME.pdf): <u>Muhammad Waseem</u>, and Qing Chang, *In Journal of Manufacturing Science and Engineering*
 
-2. [*"Optimisation of tensile and compressive behaviour of PLA 3D printed parts using categorical response surface methodology"*](/files/pyfet_sp23.pdf): <u>Muhammad Waseem</u>, Tufail Habib, Usman Ghani, Muhammad Abas, Qazi Muhammad Usman Jan, and Muhammad Alamzaib Khan, *In International Journal of Industrial and Systems Engineering*
+2. [*"Dynamic modeling and analysis of multi-product flexible production line"*](/files/Dynamics_paper_final.pdf): <u>Muhammad Waseem</u>, Chen Li, and, Qing Chang, *In International Journal of Computer Integrated Manufacturing*
 
-3. [*"Manufacturing productivity analysis by applying overall equipment effectiveness metric in a pharmaceutical industry"*](/files/swarmflawfinder_sp22.pdf): Muhammad Zubair, Shahid Maqsood, Tufail Habib, Qazi Muhammad Usman Jan, Uroosa Nadir, <u>Muhammad Waseem<u>, and Qazi Muhammad Yaseen, *In Cogent Engineering*
+3. [*"Multi-response optimization of tensile creep behavior of PLA 3D printed parts using categorical response surface methodology"*](/files/Creep.pdf): <u>Muhammad Waseem</u>, Bashir Salah, Tufail Habib, Waqas Saleem, Muhammad Abas, Razaullah Khan, and Usman Ghani, *In Polymers MDPI*
 
-4. [*"Productivity enhancement at molding compound manufacturing plant by applying time and motion analysis"*](/files/forensic_analysis_of_config_attacks_ndss22.pdf):  <u>Muhammad Waseem <u>, Usman Ghani, Tufail Habib, Sahar Noor, and Tauseef Khan, *In Mehran University Research Journal Of Engineering & Technology*
+4. [*"Optimisation of tensile and compressive behaviour of PLA 3D printed parts using categorical response surface methodology"*](/files/compressive_behavior.pdf): <u>Muhammad Waseem</u>, Tufail Habib, Usman Ghani, Muhammad Abas, Qazi Muhammad Usman Jan, and Muhammad Alamzaib Khan, *In International Journal of Industrial and Systems Engineering*
 
-5. [*"Dynamic modeling and analysis of multi-product flexible production line"*](/files/swarmbug-fse21.pdf): <u>Muhammad Waseem<u>, Chen Li, and, Qing Chang, *In International Journal of Computer Integrated Manufacturing*
+5. [*"Manufacturing productivity analysis by applying overall equipment effectiveness metric in a pharmaceutical industry"*](/files/Zubair paper.pdf): Muhammad Zubair, Shahid Maqsood, Tufail Habib, Qazi Muhammad Usman Jan, Uroosa Nadir, <u>Muhammad Waseem</u>, and Qazi Muhammad Yaseen, *In Cogent Engineering*
 
-6. [*"Productivity enhancement with material handling system design and human factors analysis-a case study"*](/files/spinner-ccs21-extended-ver.pdf): <u>Muhammad Waseem<u>, Usman Ghani, Tufail Habib, and Sahar Noor, *In Mehran University Research Journal of Engineering & Technology*
+6. [*"Productivity enhancement at molding compound manufacturing plant by applying time and motion analysis"*](/files/time and motion paper.pdf):  <u>Muhammad Waseem </u>, Usman Ghani, Tufail Habib, Sahar Noor, and Tauseef Khan, *In Mehran University Research Journal Of Engineering & Technology*
 
-7. [*"Adaptive Mobile Robot Scheduling in Multiproduct Flexible Manufacturing Systems Using Reinforcement Learning"*](/files/swarmbug-fse21.pdf): <u>Muhammad Waseem<u>, and Qing Chang, *In Journal of Manufacturing Science and Engineering*
+7. [*"Productivity enhancement with material handling system design and human factors analysis-a case study"*](/files/Ergonomics.pdf): <u>Muhammad Waseem</u>, Usman Ghani, Tufail Habib, and Sahar Noor, *In Mehran University Research Journal of Engineering & Technology* 
 
-8. [*"Excess noise reduction with ear protector applying mathematical algorithm: A case of medium density fiber industry"*](/files/swarmbug-fse21.pdf): Sohail Khan, Ishrat Noor, Tufail Habib, and <u>Muhammad Waseem<u> *In Noise & Vibration Worldwide*
+8. [*"Excess noise reduction with ear protector applying mathematical algorithm: A case of medium density fiber industry"*](/files/SAGE.pdf): Sohail Khan, Ishrat Noor, Tufail Habib, and <u>Muhammad Waseem</u> *In Noise & Vibration Worldwide*
