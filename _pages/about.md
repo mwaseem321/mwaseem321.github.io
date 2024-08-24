@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Muhammad Waseem, a Ph.D. Student in the [Department of Mechanical and Aerospace Engineering](https://engineering.virginia.edu/departments/mechanical-and-aerospace-engineering) at the [University of Virginia (UVA)](https://www.virginia.edu/). I am currently being advised by Prof. [Qing (Cindy) Chang](https://engineering.virginia.edu/faculty/qing-cindy-chang/). My primary research focus lies in the broad spectrum of Production Systems Modelling and Control. 
+Hello! I am Muhammad Waseem, a Ph.D. Candidate in the [Department of Mechanical and Aerospace Engineering](https://engineering.virginia.edu/departments/mechanical-and-aerospace-engineering) at the [University of Virginia (UVA)](https://www.virginia.edu/). I am currently being advised by Prof. [Qing (Cindy) Chang](https://engineering.virginia.edu/faculty/qing-cindy-chang/). My primary research focus lies in the broad spectrum of Production Systems Modelling and Control. 
 
 
 
 # Research interests:
-My current research interests include *Production Systems Modelling*, *Deep Reinforcement Learning*, *Engineering Optimization*, and *Scheduling control*.
+My current research interests include *Smart manufacturing*, *Deep Reinforcement Learning*, *Engineering Optimization*, and *Dynamic control*.
 
 I am currently exploring DRL based approaches to efficiently control the complex scheduling of mobile robots in a stochastic Multiproduct Flexible Manufacturing System. 
 
 ----
 
 # News:
+- **Aug '24**: Done with the internship. It was a great experience to work on the battery production lines. I was able to develop a machine learning based model for the throughput estimation and improvement ✅⏳
+- **May '24**: I'm happy to join the Materials and Manufacturing Research team at General Motors as a Research intern! ✅⏳
 - **Aug '23**: Passed my Ph.D. Qualifying Exam! ✅⏳
 - **July '23**: "*Adaptive Mobile Robot Scheduling in Multi-product Flexible Manufacturing Systems Using Reinforcement Learning*" accepted in [ASME-JMSE](https://asmedigitalcollection.asme.org/manufacturingscience/)
 - **January '23**: "*Dynamic Modelling and Analysis of Multi-product Flexible Production Line*" accepted in [IJCIM](https://www.tandfonline.com/journals/tcim20/)
