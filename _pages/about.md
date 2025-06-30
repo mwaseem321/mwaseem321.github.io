@@ -37,17 +37,16 @@ My research focuses on the automation and control of complex systems. I explore 
 ---
 
 # Publications:
-1. [*"Machine Learning-Enhanced Digital Twins for Predictive Analytics in Battery Pack Assembly"*]: <u>Muhammad Waseem</u>, Changbai Tan, Seog-Chan Oh, Jorge Arinez, and Qing Chang, *In Journal of Manufacturing Systems*
+1. *"Machine Learning-Enhanced Digital Twins for Predictive Analytics in Battery Pack Assembly"*: <u>Muhammad Waseem</u>, Changbai Tan, Seog-Chan Oh, Jorge Arinez, and Qing Chang, *In Journal of Manufacturing Systems*
 
-2. [*"Integrated energy optimization in manufacturing through multiagent deep reinforcement learning: Holistic 
-control of manufacturing, microgrid systems, and battery storage"*]: <u>Muhammad Waseem</u>, Mihitha Sarinda Maithripala, Qing Chang, and Zongli Lin, *In ASME Journal of Manufacturing Science and Engineering*
+2. *"Integrated energy optimization in manufacturing through multiagent deep reinforcement learning: Holistic 
+control of manufacturing, microgrid systems, and battery storage"*: <u>Muhammad Waseem</u>, Mihitha Sarinda Maithripala, Qing Chang, and Zongli Lin, *In ASME Journal of Manufacturing Science and Engineering*
    
-3. [*"Demand-Driven Hierarchical Integrated Planning-Scheduling Control for a Mobile Robot-Operated Flexible 
-Smart Manufacturing System"*]: Chen Li, Kshitij Bhatta, <u>Muhammad Waseem</u>, and Qing Chang, *In Journal of Robotics and Computer Integrated Manufacturing*
+3. *"Demand-Driven Hierarchical Integrated Planning-Scheduling Control for a Mobile Robot-Operated Flexible Smart Manufacturing System"*: Chen Li, Kshitij Bhatta, <u>Muhammad Waseem</u>, and Qing Chang, *In Journal of Robotics and Computer Integrated Manufacturing*
 
-4. [*"Dynamic modelling and real-time performance analysis of multiproduct batch manufacturing systems with perishable products"*]: Kshitij Bhatta, <u>Muhammad Waseem</u>, Chen Li and Qing Chang, *In Manufacturing Letters (Presented at NAMRC 52)*
+4. *"Dynamic modelling and real-time performance analysis of multiproduct batch manufacturing systems with perishable products"*: Kshitij Bhatta, <u>Muhammad Waseem</u>, Chen Li and Qing Chang, *In Manufacturing Letters (Presented at NAMRC 52)*
 
-5. [*"Can Pre-trained LLMs be used as out-of-the-box bottleneck detectors? An explorative study"*]: Chen Li, Kshitij Bhatta, <u>Muhammad Waseem</u>, Jorge Arinez and Qing Chang, *Presented at NAMRC 53*
+5. *"Can Pre-trained LLMs be used as out-of-the-box bottleneck detectors? An explorative study"*: Chen Li, Kshitij Bhatta, <u>Muhammad Waseem</u>, Jorge Arinez and Qing Chang, *Presented at NAMRC 53*
   
 6. [*"From Nash Q-learning to nash-MADDPG: Advancements in multiagent control for multiproduct flexible manufacturing systems"*](/files/nash.pdf): <u>Muhammad Waseem</u>, and Qing Chang, *In Journal of Manufacturing Systems*
 
