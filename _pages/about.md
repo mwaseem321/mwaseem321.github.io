@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About me: "
-excerpt: "Hello! I am Muhammad Waseem, a Ph.D. candidate in the Department of Mechanical and Aerospace Engineering at the University of Virginia (UVA). I am being advised by Prof. [Qing (Cindy) Chang](https://engineering.virginia.edu/faculty/qing-cindy-chang/). My primary research focus lies in the broad spectrum of Smart Manufacturing: Modelling and Control."
+excerpt: "Hello! I am Muhammad Waseem, a Ph.D. candidate in the Department of Mechanical and Aerospace Engineering at the University of Virginia (UVA). I am being advised by Prof. [Qing (Cindy) Chang](https://engineering.virginia.edu/faculty/qing-cindy-chang/). My primary research focus lies in the broad spectrum of Complex  Systems Modelling and Control."
 author_profile: true
 redirect_from: 
   - /about/
