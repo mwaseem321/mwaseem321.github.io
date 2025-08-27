@@ -18,6 +18,7 @@ My research focuses on the automation and control of complex systems. I explore 
 ----
 
 # News:
+- **August '25**: Done with my summer internship at GM. It was a wonderful experience working on the General Assembly lines. Some sota work is along the way to be published soon. Stay tuned!
 - **June '25**: Thanks to my co-authors for presenting our work at the NAMRC 53.
 - **June '25**: Alhamdulillah! we are blessed with a beautiful baby boy
 - **May '25**: I'm happy to join the Materials and Manufacturing Research team at General Motors as a Research intern
