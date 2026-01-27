@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "About me: "
-excerpt: "Hello! I am Muhammad Waseem, a Ph.D. candidate in the Department of Mechanical and Aerospace Engineering at the University of Virginia (UVA). I am being advised by Prof. [Qing (Cindy) Chang](https://engineering.virginia.edu/faculty/qing-cindy-chang/). My primary research focus lies in the broad spectrum of Complex  Systems Modelling and Control."
+excerpt: "Hello! I am Dr. Muhammad Waseem, a Research Assistant Professor at the University of Tennessee Oak-Ridge Innovation Institute (UT-ORII). My research includes the modeling and control of Complex  Systems. I am currently accepting new PhD students with a strong background in programming (python) and an understanding of manufacturing systems."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! I am Muhammad Waseem, a Ph.D. Candidate in the [Department of Mechanical and Aerospace Engineering](https://engineering.virginia.edu/departments/mechanical-and-aerospace-engineering) at the [University of Virginia (UVA)](https://www.virginia.edu/). I am currently being advised by Prof. [Qing (Cindy) Chang](https://engineering.virginia.edu/faculty/qing-cindy-chang/). My primary research focus lies in the broad spectrum of Complex Systems Modelling and Control. 
+Hello! I am Dr. Muhammad Waseem, a Research Assistant Professor at the University of Tennessee Oak-Ridge Innovation Institute (UT-ORII). My research includes the modeling and control of Complex  Systems. 
 
 
 
@@ -18,6 +18,8 @@ My research focuses on the automation and control of complex systems. I explore 
 ----
 
 # News:
+- **January '26**: I am actively looking for strong PhD candidates with background in manufacturing systems and control and a solid skills in programming (python).
+- **January '26**: Happy New Year! Defended my PhD dissertation last December and joined UT Knoxville as a Research Assistant Professor.
 - **August '25**: Done with my summer internship at GM. It was a wonderful experience working on the General Assembly lines. Some sota work is along the way to be published soon. Stay tuned!
 - **June '25**: Thanks to my co-authors for presenting our work at the NAMRC 53.
 - **June '25**: Alhamdulillah! we are blessed with a beautiful baby boy
